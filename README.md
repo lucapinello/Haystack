@@ -4,6 +4,8 @@ Epigenetic Variability and Motif Analysis Pipeline
 --------------------------------------------------
 **Current version**: 0.4
 
+[![Build Status](https://travis-ci.org/rfarouni/Haystack.svg?branch=master)](https://travis-ci.org/rfarouni/Haystack)
+
 
 Summary
 -------
@@ -41,7 +43,7 @@ After checking that the required software is installed you can install Haystack 
 
 2) Type the command:
 	
-	pip install haystack_bio --no-use-wheel --verbose
+	pip install haystack_bio --verbose
 
 
 Alternatively if want to install the package without the PIP utility:
