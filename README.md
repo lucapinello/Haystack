@@ -1,3 +1,11 @@
+
+THIS IS AN OLD VERSION OF HAYSTACK, THE PROJECT HAS BEEN MOVED HERE:
+====================================================================
+
+https://github.com/pinellolab/haystack_bio
+==========================================
+
+
 HAYSTACK
 ========
 Epigenetic Variability and Motif Analysis Pipeline       
